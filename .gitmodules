@@ -1,0 +1,3 @@
+[submodule "predict-restaurant-ratings"]
+	path = predict-restaurant-ratings
+	url = https://github.com/Subhakar32/predict-restaurant-ratings
